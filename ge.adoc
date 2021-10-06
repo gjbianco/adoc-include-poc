@@ -1,0 +1,9 @@
+== Section Name
+
+include::section-content.adoc[]
+
+ifndef::override-finish[]
+=== Finish
+
+This is a standard Finish section
+endif::override-finish[]

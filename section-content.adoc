@@ -1,0 +1,13 @@
+=== Child Section Name
+
+This is the section content.
+It does not have a Finish section.
+
+// uncomment the following to override the standard Finish
+
+////
+:override-finish:
+=== Child Finish
+
+This is a finish section coming from a child.
+////
